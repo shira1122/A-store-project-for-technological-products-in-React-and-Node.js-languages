@@ -1,0 +1,78 @@
+[
+  {
+    "id": 2,
+    "name": "Galaxy S22",
+    "description": "טלפון מתקדם מבית סמסונג",
+    "category": "טלפונים",
+    "imgUrl": "",
+    "price": "3595",
+    "company": "Samsung",
+    "prodDate": "2023-05-01"
+  },
+  {
+    "id": 3,
+    "name": "Dell XPS 13",
+    "description": "מחשב נייד חזק",
+    "category": "מחשבים",
+    "imgUrl": "",
+    "price": 5890,
+    "company": "Dell",
+    "prodDate": "2023-07-10"
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro",
+    "description": "מחשב נייד של אפל",
+    "category": "מחשבים",
+    "imgUrl": "",
+    "price": 8990,
+    "company": "Apple",
+    "prodDate": "2023-01-01"
+  },
+  {
+    "id": 5,
+    "name": "iPad Air",
+    "description": "טאבלט איכותי",
+    "category": "טאבלטים",
+    "imgUrl": "",
+    "price": "3199",
+    "company": "Apple",
+    "prodDate": "2023-03-01"
+  },
+  {
+    "id": 1747949375684,
+    "name": "XERTG",
+    "description": "מחשב מושלםםםם",
+    "category": "מחשבים",
+    "price": "50000",
+    "company": "G185",
+    "prodDate": "04/05/2005"
+  },
+  {
+    "id": 1748139642055,
+    "name": "מחשב",
+    "description": "דסדסדסדס",
+    "category": "טבלטים",
+    "price": "28",
+    "company": "דרדס",
+    "prodDate": "12345678"
+  },
+  {
+    "id": 1749506725796,
+    "name": "41",
+    "description": "40414",
+    "category": "טלפונים",
+    "price": "1225",
+    "company": "azxs",
+    "prodDate": "gf"
+  },
+  {
+    "id": 1749506768988,
+    "name": "oijp",
+    "description": "טלפון מטורף",
+    "category": "טלפונים",
+    "price": "5225",
+    "company": "G185",
+    "prodDate": "04/05/2005"
+  }
+]
